@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pharmeds>
+    <pharmed>
+        <id>1</id>
+        <name>Thuốc 1</name>
+        <NSX>21/12/2011</NSX>
+        <HSD>22/12/2024</HSD>
+        <Source>Việt Nam</Source>
+        <bill>22g58</bill>
+        <set>1e4rf</set>
+        <number>12</number>
+        <price>150.0</price>
+    </pharmed>
+    <pharmed>
+        <id>2</id>
+        <name>Thuốc 2</name>
+        <NSX>21/12/2021</NSX>
+        <HSD>22/4/2026</HSD>
+        <Source>Hàn Quốc</Source>
+        <bill>23sg7</bill>
+        <set>1dsga7</set>
+        <number>28</number>
+        <price>14.0</price>
+    </pharmed>
+    <pharmed>
+        <id>3</id>
+        <name>Thuốc 3</name>
+        <NSX>12/12/2000</NSX>
+        <HSD>12/3/2027</HSD>
+        <Source>Trung Quốc</Source>
+        <bill>1d68g2</bill>
+        <set>8jscqq23</set>
+        <number>25</number>
+        <price>50.0</price>
+    </pharmed>
+    <pharmed>
+        <id>4</id>
+        <name>Thuốc 4</name>
+        <NSX>22/4/2021</NSX>
+        <HSD>24/6/2027</HSD>
+        <Source>Lào</Source>
+        <bill>77s1wsav</bill>
+        <set>1832s5</set>
+        <number>60</number>
+        <price>600.0</price>
+    </pharmed>
+    <pharmed>
+        <id>5</id>
+        <name>Thuốc 6</name>
+        <NSX>24/12/2019</NSX>
+        <HSD>25/5/2027</HSD>
+        <Source>Thái Lan</Source>
+        <bill>81hs6</bill>
+        <set>cqjxn17</set>
+        <number>200</number>
+        <price>140.0</price>
+    </pharmed>
+    <pharmed>
+        <id>6</id>
+        <name>Thuốc 5</name>
+        <NSX>23/12/2009</NSX>
+        <HSD>21/2/2026</HSD>
+        <Source>Campuchia</Source>
+        <bill>rry34f</bill>
+        <set>dvc3v5</set>
+        <number>35</number>
+        <price>125.0</price>
+    </pharmed>
+    <pharmed>
+        <id>7</id>
+        <name>Thuốc 8</name>
+        <NSX>12/5/2022</NSX>
+        <HSD>6/5/2024</HSD>
+        <Source>Hàn Quốc</Source>
+        <bill>nkajsd91</bill>
+        <set>81hed</set>
+        <number>55</number>
+        <price>10.0</price>
+    </pharmed>
+    <pharmed>
+        <id>8</id>
+        <name>Thuốc 10</name>
+        <NSX>30/04/2003</NSX>
+        <HSD>6/5/2025</HSD>
+        <Source>Mỹ</Source>
+        <bill>rjdi45</bill>
+        <set>8823f8</set>
+        <number>50</number>
+        <price>48.0</price>
+    </pharmed>
+    <pharmed>
+        <id>9</id>
+        <name>Thuốc 9</name>
+        <NSX>8/3/2015</NSX>
+        <HSD>8/4/2026</HSD>
+        <Source>Đức</Source>
+        <bill>4du2d</bill>
+        <set>acnjka8</set>
+        <number>125</number>
+        <price>250.0</price>
+    </pharmed>
+    <pharmed>
+        <id>10</id>
+        <name>Thuốc 11</name>
+        <NSX>8/3/2022</NSX>
+        <HSD>8/8/2029</HSD>
+        <Source>Afganishtan</Source>
+        <bill>518x</bill>
+        <set>2xny75</set>
+        <number>80</number>
+        <price>96.0</price>
+    </pharmed>
+    <pharmed>
+        <id>11</id>
+        <name>Thuốc 12</name>
+        <NSX>6/7/2023</NSX>
+        <HSD>8/8/2027</HSD>
+        <Source>Mông Cổ</Source>
+        <bill>d2knsu5</bill>
+        <set>2eud6d</set>
+        <number>70</number>
+        <price>160.0</price>
+    </pharmed>
+    <pharmed>
+        <id>12</id>
+        <name>Thuốc 18</name>
+        <NSX>3/3/2016</NSX>
+        <HSD>8/3/2029</HSD>
+        <Source>Irasel</Source>
+        <bill>12ef7</bill>
+        <set>t2tfu5</set>
+        <number>50</number>
+        <price>220.0</price>
+    </pharmed>
+    <pharmed>
+        <id>13</id>
+        <name>Thuốc 24</name>
+        <NSX>15/5/2022</NSX>
+        <HSD>15/5/2029</HSD>
+        <Source>Pháp</Source>
+        <bill>2c6v2c</bill>
+        <set>r23c6</set>
+        <number>55</number>
+        <price>150.0</price>
+    </pharmed>
+</pharmeds>
